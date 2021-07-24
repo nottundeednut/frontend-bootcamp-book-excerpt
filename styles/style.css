@@ -1,0 +1,47 @@
+body {
+    background-color: #D9D9D9;
+    font-family: Georgia, serif;
+    font-size: 16px;
+    margin: 50px;
+    
+    color: #353D40;
+}
+
+h1 {
+    font-size: 3em;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 30px;
+    background-color: #F2B138;
+    
+    
+}
+
+blockquote {
+    background-color: #A1A5A6;
+    padding: 20px 10px;
+    text-align: center;
+    
+}
+
+footer {
+    background-color: #F2B138;
+    
+    padding: 10px;
+    text-align: center;
+    font-size: smaller;
+}
+
+
+a:link {
+
+    text-decoration: none;
+}
+
+a:visited {
+    color: red;
+}
+
+a:hover {
+    color: ;
+}
